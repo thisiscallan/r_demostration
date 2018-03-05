@@ -1,11 +1,7 @@
-## Data Visualization Winter 2018
-# Session 10 precept 
+ 
 # Callan Deline
 # 22 Feb 2018
 
-## combines to pointrange plots, flipped coords, labels, hline
-# lm used with factor!! 
-# merges plots with plot_grid
 
 library(tidyverse)
 library(ggthemes)
